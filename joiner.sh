@@ -16,3 +16,5 @@ sed -i 's/^/sudo /' kubeadm_join.sh
 cat kubeadm_join.sh
 chmod u+x ./kubeadm_join.sh
 sudo ./kubeadm_join.sh
+
+
